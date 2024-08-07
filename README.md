@@ -1,4 +1,4 @@
-# # Hey! 👋 I'm Mohamed
+#  Hey! 👋 I'm Mohamed
 
 Hi there! I'm Mohamed, an aspiring data analyst with a passion for uncovering insights from complex datasets. My journey involves turning raw data into actionable knowledge to help drive strategic decisions usiing data as a means.
 
@@ -30,3 +30,11 @@ Hi there! I'm Mohamed, an aspiring data analyst with a passion for uncovering in
 🧠  I'm learning Python, SQL, Power BI, R
 
 🤝  I'm open to collaborating on Data projects
+
+### Skills
+
+Python  HTML5 rlang MySQL   PowerBI  Tableau Logo  
+
+Skills Snapshot Languages: Python, SQL Data Manipulation: Pandas, NumPy Data Visualization: Matplotlib, Seaborn, GitHub, HTML
+
+### Socials
