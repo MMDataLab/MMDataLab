@@ -8,9 +8,9 @@ Hi there! I'm Mohamed, an aspiring data analyst with a passion for uncovering in
 
 •	A qualified science teacher since 2017, culminating in my role as Head of Chemistry.
 
-•	Proficient in Excel, SQL, Tableau and Power BI
+• Confidently used Data in my previous roles to uncover insghts to inform data-based decisions
 
-•	Proficient in languages such as Python.
+•	Proficient in Data analysis tools such as Excel, SQL, Tableau and Power BI. Using langagues like Python to further dive-in to Data.
 
 •	Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling.
 
