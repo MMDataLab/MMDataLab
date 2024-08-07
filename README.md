@@ -3,7 +3,7 @@
 
 Hi there! I'm Mohamed, an aspiring data analyst with a passion for uncovering insights from complex datasets. My journey involves turning raw data into actionable knowledge to help drive decision-making strategies.
 
-# About me
+## About me
 
 •	I hold a masters degree in Pharmacy
 
@@ -15,7 +15,7 @@ Hi there! I'm Mohamed, an aspiring data analyst with a passion for uncovering in
 
 •	Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling.
 
-# Projects
+## Projects
 
 1. Excel - Exploratory Data Analysis: Using Wealth of nationas.xlsx file, conditional formatting, filtering data, data cleansing, creating pivot tables alongside charts and creating macros for efficient executions.
 
@@ -23,7 +23,7 @@ Hi there! I'm Mohamed, an aspiring data analyst with a passion for uncovering in
 
 3. MySQL - Data Manipulation: Import a .db file into MySQL Workbench and activate it as the schema. Using the SELECT and FROM statements in every query consistently and calling the correct column names and data table names. Using the outer join or inner join to connect two or more data columns from different tables together via a primary and foreign key. Using the GROUPBY and ORDERBY functions to group records together via a common value or sort the records from ASC (ascending) or DESC (decsending) order. Using these in the correct syntax to answer questions and discover trends.
 
-# Get in touch ☕
+### Get in touch ☕
 🌍  I'm based in London and open to relocation
 
 ✉️  You can contact me at my [email address](mohamed.dahirr@gmail.com)
