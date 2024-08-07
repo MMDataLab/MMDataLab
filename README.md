@@ -1,3 +1,4 @@
+[ALT image](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 # Data Analyst | Pharmacist | Teacher
 
 Hi there! I'm Mohamed, an aspiring data analyst with a passion for uncovering insights from complex datasets. My journey involves turning raw data into actionable knowledge to help drive decision-making strategies.
