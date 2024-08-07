@@ -1,4 +1,3 @@
-# Hello! :wave:
 # Aspiring Data Analyst | Pharmacist | Educationalist
 
 ![Alt image](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
