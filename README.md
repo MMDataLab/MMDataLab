@@ -24,6 +24,9 @@ Hi there! I'm Mohamed, an aspiring data analyst with a passion for uncovering in
 
 # Get in touch ☕
 🌍  I'm based in London and open to relocation
+
 ✉️  You can contact me at my [email address](mohamed.dahirr@gmail.com)
+
 🧠  I'm learning Python, SQL, Power BI, R
+
 🤝  I'm open to collaborating on Data projects
