@@ -9,9 +9,13 @@ Hi there! I'm Mohamed, an aspiring data analyst with a passion for uncovering in
 # About me
 
 •	I hold a masters degree in Pharmacy
+
 •	A qualified science teacher since 2017, culminating in my role as Head of Chemistry.
+
 •	Proficient in Excel, SQL, Tableau and Power BI
+
 •	Proficient in languages such as Python.
+
 •	Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling.
 
 # Projects
@@ -23,4 +27,7 @@ Hi there! I'm Mohamed, an aspiring data analyst with a passion for uncovering in
 3. MySQL - Data Manipulation: Import a .db file into MySQL Workbench and activate it as the schema. Using the SELECT and FROM statements in every query consistently and calling the correct column names and data table names. Using the outer join or inner join to connect two or more data columns from different tables together via a primary and foreign key. Using the GROUPBY and ORDERBY functions to group records together via a common value or sort the records from ASC (ascending) or DESC (decsending) order. Using these in the correct syntax to answer questions and discover trends.
 
 # Get in touch ☕
-
+🌍  I'm based in London and open to relocation
+✉️  You can contact me at my [email address](mohamed.dahirr@gmail.com)
+🧠  I'm learning Python, SQL, Power BI, R
+🤝  I'm open to collaborating on Data projects
