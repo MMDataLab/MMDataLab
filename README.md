@@ -1,6 +1,6 @@
 # # Hey! 👋 I'm Mohamed
 
-Hi there! I'm Mohamed, an aspiring data analyst with a passion for uncovering insights from complex datasets. My journey involves turning raw data into actionable knowledge to help drive decision-making strategies.
+Hi there! I'm Mohamed, an aspiring data analyst with a passion for uncovering insights from complex datasets. My journey involves turning raw data into actionable knowledge to help drive strategic decisions usiing data as a means.
 
 ## About me
 
@@ -8,7 +8,7 @@ Hi there! I'm Mohamed, an aspiring data analyst with a passion for uncovering in
 
 •	A qualified science teacher since 2017, culminating in my role as Head of Chemistry.
 
-• Confidently used Data in my previous roles to uncover insghts to inform data-based decisions
+• Confidently used Data in my previous roles to uncover insights to inform data-based decisions
 
 •	Proficient in Data analysis tools such as Excel, SQL, Tableau and Power BI. Using langagues like Python to further dive-in to Data.
 
