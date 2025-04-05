@@ -1,6 +1,6 @@
-#  Hey! 👋 I'm Mohamed
+#  Hey! 👋 I'm Max Dahir
 
-Hi there! I'm Mohamed, an aspiring data analyst with a passion for uncovering insights from complex datasets. My journey involves turning raw data into actionable knowledge to help drive strategic decisions using data as a means.
+Hi there! I'm Max Dahir, an aspiring data analyst with a passion for uncovering insights from complex datasets. My journey involves turning raw data into actionable knowledge to help drive strategic decisions using data as a means.
 
 ## About me
 
